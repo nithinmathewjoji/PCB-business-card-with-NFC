@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nfc class 4 5 turn")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "FQV3JXVJRBBMXRR")(type "Eagle")(uri "C:/Users/NMJna/Downloads/FQV3JXVJRBBMXRR.lbr")(options "")(descr ""))
+)
