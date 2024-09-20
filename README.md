@@ -29,6 +29,10 @@ After 1.5 months of intensive research and development, I am excited to present 
 - **Operating Frequency**: 13.56 MHz for standard NFC communication.
 - **Range**: Maximum 10 cm, optimal 5 cm for best performance.
 
+
+## pcb image 
+![1722317938501](https://github.com/user-attachments/assets/9a7cc081-64b3-462c-9a78-edbbc5244d44)
+
 ## Quote
 
 *CIRCUIT BY DESIGN, INNOVATION BY CHOICE*
