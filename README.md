@@ -9,6 +9,10 @@ Circuit by design, Innovation by choice
 
 After 1.5 months of intensive research and development, I am excited to present my NFC-enabled PCB business card. This innovative project merges technology with practicality, resulting in a standout business card designed to make a lasting impression.
 
+## Logo 
+![card](https://github.com/user-attachments/assets/bd65c3d9-5e57-4d47-8fc2-f3b447a9d856)
+
+
 ## Features
 
 - **NFC Enabled**: Easily share information and connect with others via Near Field Communication.
